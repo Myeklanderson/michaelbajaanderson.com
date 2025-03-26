@@ -3,12 +3,10 @@ Michael Paul Baja Anderson wants to be as soft as the mountains and as loud as t
 
 Anderson holds a BFA with an emphasis in Visual and Critical Studies from the School of the Art Institute of Chicago and finds strength within the soft arts. He has collaborated with the Tacoma Art Museum, Tacoma Housing Authority, Teens In Tacoma, Yəhaw̓ Indigenous Creatives, The City of Seattle, The Carving Studio and Sculpture Center, and Ox-Bow School of Art. 
 
-
+>#### Currently exhibiting work alongside Abby Mendoza and Ash Nañoz at [Epiphany Center of The Arts](https://epiphanychi.com/come-as-you-are-on-care-for-ourselves-and-each-other/ "Exhibition Information") in Chicago,IL through May 3,2025. ####
 </p>
-[cv](https://docs.google.com/document/d/16E6aB_5Shzp2v9x5uV9-a86pHFVfV3Jm6HOJZfi6SKg/edit?usp=sharing)
-[contact](michpander@gmail.com) 
-[instagram](https://www.instagram.com/softasthemountains?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
 
+## *[cv](https://docs.google.com/document/d/16E6aB_5Shzp2v9x5uV9-a86pHFVfV3Jm6HOJZfi6SKg/edit?usp=sharing) [contact](michpander@gmail.com) [instagram](https://www.instagram.com/softasthemountains?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)* ##
 
 
 
