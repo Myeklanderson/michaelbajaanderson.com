@@ -6,7 +6,7 @@ Anderson holds a BFA with an emphasis in Visual and Critical Studies from the Sc
 >#### Currently exhibiting work alongside Abby Mendoza and Ash Nañoz at [Epiphany Center of The Arts](https://epiphanychi.com/come-as-you-are-on-care-for-ourselves-and-each-other/ "Exhibition Information") in Chicago, IL through May 3, 2025. ####
 
 
-## *[cv](https://docs.google.com/document/d/16E6aB_5Shzp2v9x5uV9-a86pHFVfV3Jm6HOJZfi6SKg/edit?usp=sharing) [contact](michpander@gmail.com) [instagram](https://www.instagram.com/softasthemountains?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)* ##
+## *[cv](https://docs.google.com/document/d/16E6aB_5Shzp2v9x5uV9-a86pHFVfV3Jm6HOJZfi6SKg/edit?usp=sharing) [contact](mailto:michpander@gmail.com) [instagram](https://www.instagram.com/softasthemountains?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)* ##
 
 
 
