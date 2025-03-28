@@ -17,6 +17,7 @@ body {
     position: relative;
     text-align: center;
     justify-content:center; 
+    
 p {
     padding: 2% 4%;
     font-family: "Schibsted Grotesk", sans-serif;
@@ -24,6 +25,7 @@ p {
   font-weight: <550>;
   font-style: normal;
   margin:auto;
+  display:flexbox
 }
 h1 {
     font-family: 'Silkscreen', 'Verdana', sans-serif;
@@ -39,8 +41,4 @@ h2 {
     position: relative;
     text-align: center;
     justify-content:center; 
-}
-@media screen and (max-width: 959px) {
-body.content-full-screen .entry .alignfull {
-    margin-left: 0 !important;
 }
