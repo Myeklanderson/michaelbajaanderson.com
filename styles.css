@@ -2,11 +2,8 @@ body {
   font-family: 'Courier New', monospace;
 }
 h1 {
-    font-family: 'Silkscreen';font-size: 40px;
+    font-family: 'Silkscreen', font-size: 40px, Verdana, sans-serif;
 }
 h2 {
-    font-family: 'Silkscreen';font-size: 22px;
-}
-h1 {
-    font-family: Geneva, Verdana, sans-serif;
+    font-family: 'Silkscreen', font-size: 22px;
 }
