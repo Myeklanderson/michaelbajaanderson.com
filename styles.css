@@ -26,6 +26,9 @@ p {
   font-style: normal;
   margin:auto;
   display:flexbox
+  position: relative;
+    text-align: center;
+    justify-content:center; 
 }
 h1 {
     font-family: 'Silkscreen', 'Verdana', sans-serif;
