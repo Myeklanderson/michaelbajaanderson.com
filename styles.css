@@ -49,17 +49,3 @@ h2 {
     text-align: center;
     justify-content:center; 
 }
-body {
-  overflow-x: hidden;
-  overflow-x: clip !important;
-}
-img {
-    max-width: fit-content;
-}
-@media screen and (max-width: 959px){
-    img {
-        max-width: max-content;
-        height: auto;
-        margin-left: 0 !important;
-        margin: auto;
-}
