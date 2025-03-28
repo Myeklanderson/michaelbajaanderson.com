@@ -1,14 +1,14 @@
 header {
-    font-family: 'Silkscreen'; font-size: 40px;
+    font-family: 'Silkscreen', font-size: 40px;
 }
 nav {
-    font-family: 'Silkscreen'; font-size: 22px;
+    font-family: 'Silkscreen', font-size: 22px;
 }
 body {
   font-family: 'Courier New', monospace;
 }
 h1 {
-    font-family: 'Silkscreen'; font-size: 40px; Verdana, sans-serif;
+    font-family: 'Silkscreen', 'Verdana', sans-serif; font-size: 40px; 
 }
 h2 {
     font-family: 'Silkscreen'; font-size: 22px;
