@@ -57,7 +57,7 @@ nav ul li {
 nav ul li a, nav ul li span {
   text-decoration: none;
   color: #333;
-  font-weight: 600;
+  font-weight: 500;
   cursor: pointer;
   display: block;
   user-select: none;
