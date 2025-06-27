@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <button class="menu-toggle" onclick="toggleSidebar()">☰</button>
+
+  <div class="container">
+    <aside class="sidebar" id="sidebar">
+      <h2>My Work</h2>
+      <nav>
+        <ul>
+          <li class="dropdown">
+            <span>Paintings</span>
+            <ul class="submenu">
+              <li><a href="sections/2024-series.html">2024 Series</a></li>
+              <li><a href="sections/landscapes.html">Landscapes</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <span>Sculpture</span>
+            <ul class="submenu">
+              <li><a href="sections/stone.html">Stone</a></li>
+              <li><a href="sections/metal.html">Metal</a></li>
+            </ul>
+          </li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <main class="content">
+      <h1>Blog</h1>
+      <div class="blog-list">
+        <article>
+          <h2><a href="posts/post1.html">Thoughts on Sculpture and Silence</a></h2>
+          <p class="post-date">June 20, 2025</p>
+          <p>A few reflections on carving by hand and the relationship between process and presence...</p>
+        </article>
+
+        <article>
+          <h2><a href="posts/post2.html">2024 Recap</a></h2>
+          <p class="post-date">January 5, 2025</p>
+          <p>Looking back at a year of exhibitions, sketches, and experimentation with materials.</p>
+        </article>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      sidebar.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
