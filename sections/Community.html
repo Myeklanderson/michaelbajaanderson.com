@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Michael Paul Baja Anderson</title>
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico"/>
+  <meta name="Michael Paul Baja Anderson's Artist Website" content="about, contact, cv, and portfolio">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href='https://fonts.googleapis.com/css?family=Silkscreen' rel='stylesheet'>
+  <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/styles.css" />
+</head>
+<body>
+  <button class="menu-toggle" onclick="toggleSidebar()">☰</button>
+
+  <div class="container">
+    <aside class="sidebar" id="sidebar">
+  <h2><a href="../index.html" style="color: inherit; text-decoration: none;">Michael Paul Baja Anderson</a></h2>
+      <nav>
+        <ul>   <!--
+          <li class="dropdown">
+          <span>Work</span> 
+            <ul class="submenu">
+              <li><a href="sections/TheSongOfTheMountains.html">The Song Of The Mountains</a></li>
+              <li><a href="sections/QuarantineFaces.html">Quarantine Faces</a></li> 
+            </ul> -->
+            <li>
+            <a href="../index.html">Work</a>
+          </li>
+          <li>
+            <a href="statement.html">Statement</a>
+          </li>
+          <li>
+            <a href="community.html">Community Work</a>
+          </li>
+          <li>
+            <a href="../pdfs/michael-paul-baja-anderson-cv-2025.pdf" target="_blank">CV</a>
+          </li>
+        </ul>
+
+        <div class="social-icons">
+          <a href="mailto:michpander@gmail.com" target="_blank">
+            <img src="../images/email-icon.svg" alt="Email" />
+          </a>
+          <a href="https://instagram.com/myeklanderson" target="_blank">
+            <img src="../images/instagram-icon.svg" alt="Instagram" />
+          </a>
+        </div>
+        <p>
+            coded by Michael in 2025 <br>
+            all rights reserved ©
+        </p>
+      </nav>
+    </aside>
+
+    <main class="content">
+    <h1>Michael Paul Baja Anderson</h1>
+      <h2>Creating moments and objects</h2>
+      <section class="vertical-gallery">
+        <img src="../images/headshotstudio.jpg" alt="Michael in his studio">
+        <p>Michael Paul Baja Anderson (b. 2002 Tacoma, Washington) is a second generation Filipino-American multidisciplinary artist based in Chicago, IL. Softness, connection, memory and play drive Anderson’s practice. Through weaving, papermaking, radio, collage, video, and writing Anderson envisions environments where the spirits and body can meet. Anderson joins the legacy of queer artists of color celebrating love and honoring life. Anderson’s work is a line from the earth wrapped around itself a hundred times, colored by its changing environments and responding to the movements of migration. A cloth protecting skin, a kite catching wind, a paper’s margins imagined, a radio broadcast to the ether, and a marble slowly eroding all summon Michael’s artistic goal: to be as soft as the mountains and as loud as the wind.
+</p><p>
+Anderson holds a BFA with an emphasis in Visual and Critical Studies from the School of the Art Institute of Chicago. In 2024, Anderson was awarded a fellowship at Ox-Bow School of Art and Artist Residency. Anderson has curated, consulted, and developed creative projects with the Tacoma Art Museum, Tacoma Housing Authority, Teens In Tacoma, Yəhaw̓ Indigenous Creatives, and The City of Seattle. Anderson’s experimental radio broadcasts have taken place at Chambers Creek Golf Course, Ox-Bow School of Art, and The Carving Studio and Sculpture Center. Currently, Anderson is an educator in Chicago Public Schools and teaching artist at the Hyde Park Art Center.
+       </p>
+      </section>
+  <script>
+    function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      sidebar.classList.toggle('active');
+    }
+
+    // Dropdown toggle
+    document.addEventListener('DOMContentLoaded', () => {
+      document.querySelectorAll('.dropdown > span').forEach(span => {
+        span.addEventListener('click', () => {
+          const submenu = span.nextElementSibling;
+          submenu.classList.toggle('active');
+        });
+      });
+    });
+  </script>
+</body>
+</html>
